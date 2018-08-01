@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Dosis|Jura|Montserrat+Alternates|Pacifico');
+body {
+    background: rgb(30, 30, 30);
+    color: white;
+}
+h1 {
+    font-family: 'Jura', sans-serif;
+}
+input {
+    
+}
+.newTitle {
+    display: block;
+    left: 20%;
+    font-family: 'Jura', sans-serif;
+}
+.newBody {
+    font-family: 'Comfortaa', cursive;
+}
+.newPublisher {
+    font-family: 'Pacifico', cursive;
+}
+.newDate {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+hr {
+    display: block;
+    width: 10%;
+}
+#text {
+    display: block;
+    position: relative;
+    width: 10%;
+    font-family: 'Comfortaa', cursive;
+    margin-top: 1%;
+    height: 5%;
+}
+#button {
+    display: block;
+    width: 5%;
+    background: white;
+    border: 0;
+    height: 5%;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
